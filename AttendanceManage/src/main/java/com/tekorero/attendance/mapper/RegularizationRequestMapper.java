@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 import com.tekorero.attendance.model.AttendanceStatus;
+import com.tekorero.attendance.model.RegularizationReason;
 
 
 public class RegularizationRequestMapper {
