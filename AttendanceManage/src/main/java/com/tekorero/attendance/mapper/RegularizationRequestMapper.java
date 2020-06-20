@@ -3,8 +3,6 @@ package com.tekorero.attendance.mapper;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-import com.innoverenit.adms.model.AttendanceStatus;
-import com.innoverenit.adms.model.RegularizationReason;
 
 public class RegularizationRequestMapper {
 
