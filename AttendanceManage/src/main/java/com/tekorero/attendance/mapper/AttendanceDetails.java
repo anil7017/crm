@@ -3,6 +3,8 @@ package com.tekorero.attendance.mapper;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+import com.tekorero.attendance.model.AttendanceStatus;
+
 
 
 public class AttendanceDetails {
