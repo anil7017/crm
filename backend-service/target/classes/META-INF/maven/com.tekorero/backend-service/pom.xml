@@ -5,5 +5,5 @@
     <artifactId>tekorero-crm</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>AttendanceManage</artifactId>
+  <artifactId>backend-service</artifactId>
 </project>

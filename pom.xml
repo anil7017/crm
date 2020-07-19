@@ -31,5 +31,9 @@
 		<module>PayslipManagement</module>
 		<module>HR-Module</module>
 		<module>common</module>
+		<module>api-gateway</module>
+		<module>auth-center</module>
+		<module>backend-service</module>
+		<module>cloud-config</module>
 	</modules>
 </project>
