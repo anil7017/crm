@@ -46,5 +46,6 @@
 		<module>auth-center</module>
 		<module>backend-service</module>
 		<module>cloud-config</module>
+		<module>Registry</module>
 	</modules>
 </project>
